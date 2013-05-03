@@ -7,11 +7,11 @@ Stable tag: 0.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Test your site for potential problems with jQuery 1.9.1 as ships with WordPress 3.6 before 3.6 is relaeased.
+Test your site for potential problems with jQuery 1.9.1 as ships with WordPress 3.6 before 3.6 is released.
 
 == Description ==
 
-Test your site for potential problems with jQuery 1.9.1 as ships with WordPress 3.6 before 3.6 is relaeased. 
+Test your site for potential problems with jQuery 1.9.1 as ships with WordPress 3.6 before 3.6 is released. 
 
 This plugin will add jquery-migrate.js to your site to prevent plugins and scripts that are using deprecated functions from breaking when you use jQuery 1.9.1. 
 
